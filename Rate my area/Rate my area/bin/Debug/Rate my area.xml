@@ -59,6 +59,10 @@ Ratemyarea
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Banner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="P:Rate_my_area.My.Resources.Resources.Crime">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -84,6 +88,10 @@ Ratemyarea
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member><member name="P:Rate_my_area.My.Resources.Resources.Share">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Start_button">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -123,6 +131,10 @@ Isle of Anglesey,629
 West Lothian,700
 Renfrewshire,701
  [rest of string was truncated]";.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Welcome_Screen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member><member name="T:Rate_my_area.My.Resources.Resources">
 	<summary>

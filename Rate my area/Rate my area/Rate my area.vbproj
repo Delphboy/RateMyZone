@@ -140,18 +140,6 @@
     <Compile Include="Screens\Dataset input\Output.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Screens\Test UI.Designer.vb">
-      <DependentUpon>Test UI.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Screens\Test UI.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Screens\Test_form.Designer.vb">
-      <DependentUpon>Test_form.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Screens\Test_form.vb">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Screens\Dataset input\Crime.resx">
@@ -187,14 +175,6 @@
       <DependentUpon>Output.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Screens\Test UI.resx">
-      <DependentUpon>Test UI.vb</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Screens\Test_form.resx">
-      <DependentUpon>Test_form.vb</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="My Project\Application.myapp">
@@ -211,6 +191,9 @@
   <ItemGroup>
     <Content Include="Framework\Features to add.txt" />
     <Content Include="Rate My Area.txt" />
+    <None Include="Resources\Banner.bmp" />
+    <None Include="Resources\Welcome Screen.bmp" />
+    <None Include="Resources\Start button.bmp" />
     <None Include="Resources\Crime.bmp" />
     <None Include="Resources\Traffic.bmp" />
     <None Include="Resources\Share.bmp" />

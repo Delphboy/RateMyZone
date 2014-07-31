@@ -15,9 +15,7 @@ C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\bin
 C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Resources.resources
 C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate my area.vbproj.GenerateResource.Cache
 C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Form1.resources
-C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Test_form.resources
 C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Output.resources
-C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Test_UI.resources
 C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Crime.resources
 C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Education.resources
 C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Health.resources
