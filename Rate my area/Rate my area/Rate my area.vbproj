@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6B800F97-7752-409C-B217-5DFE2C7E1C7E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Rate_my_area.My.MyApplication</StartupObject>
+    <RootNamespace>Rate_my_area</RootNamespace>
+    <AssemblyName>Rate my area</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Rate my area.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Rate my area.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Misc\Globals.vb" />
+    <Compile Include="Screens\Dataset input\Crime.Designer.vb">
+      <DependentUpon>Crime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Crime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Education.Designer.vb">
+      <DependentUpon>Education.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Education.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Health.Designer.vb">
+      <DependentUpon>Health.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Health.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Pollution.Designer.vb">
+      <DependentUpon>Pollution.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Pollution.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Traffic.Designer.vb">
+      <DependentUpon>Traffic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Traffic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Framework\Data Sets\DT_CSVReader.vb" />
+    <Compile Include="Framework\Data Sets\DT_XML.vb" />
+    <Compile Include="Framework\Files\DT_Compression.vb" />
+    <Compile Include="Framework\Files\DT_ExtFiles.vb" />
+    <Compile Include="Framework\Files\DT_IO.vb" />
+    <Compile Include="Framework\Form Control\DT_Form.vb" />
+    <Compile Include="Framework\Graphics\DT_Render.vb" />
+    <Compile Include="Framework\HTML output\DT_HTML.vb" />
+    <Compile Include="Framework\Sound\DT_Sound.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Output.Designer.vb">
+      <DependentUpon>Output.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Dataset input\Output.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Test UI.Designer.vb">
+      <DependentUpon>Test UI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Test UI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Test_form.Designer.vb">
+      <DependentUpon>Test_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Test_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Screens\Dataset input\Crime.resx">
+      <DependentUpon>Crime.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Dataset input\Education.resx">
+      <DependentUpon>Education.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Dataset input\Health.resx">
+      <DependentUpon>Health.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Dataset input\Pollution.resx">
+      <DependentUpon>Pollution.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Dataset input\Traffic.resx">
+      <DependentUpon>Traffic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Dataset input\Output.resx">
+      <DependentUpon>Output.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Test UI.resx">
+      <DependentUpon>Test UI.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Test_form.resx">
+      <DependentUpon>Test_form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Resources\Traffic-major-roads-miles.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Framework\Features to add.txt" />
+    <Content Include="Rate My Area.txt" />
+    <None Include="Resources\Crime.bmp" />
+    <None Include="Resources\Traffic.bmp" />
+    <None Include="Resources\Share.bmp" />
+    <None Include="Resources\Next.bmp" />
+    <None Include="Resources\New Rating.bmp" />
+    <None Include="Resources\More Details.bmp" />
+    <None Include="Resources\Health.bmp" />
+    <None Include="Resources\Environment.bmp" />
+    <None Include="Resources\Education.bmp" />
+    <None Include="Resources\9.bmp" />
+    <None Include="Resources\8.bmp" />
+    <None Include="Resources\7.bmp" />
+    <None Include="Resources\6.bmp" />
+    <None Include="Resources\5.bmp" />
+    <None Include="Resources\4.bmp" />
+    <None Include="Resources\3.bmp" />
+    <None Include="Resources\2.bmp" />
+    <None Include="Resources\1.bmp" />
+    <None Include="Resources\0.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Framework\Location\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

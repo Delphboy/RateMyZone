@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeMetricsReport Version="10">
+   <Targets>
+      <Target Name="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\bin\Debug\Rate my area.exe">
+         <Modules>
+            <Module Name="Rate my area.exe" AssemblyVersion="1.0.0.0" FileVersion="1.0.0.0">
+               <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="82" />
+                  <Metric Name="CyclomaticComplexity" Value="42" />
+                  <Metric Name="ClassCoupling" Value="41" />
+                  <Metric Name="DepthOfInheritance" Value="7" />
+                  <Metric Name="LinesOfCode" Value="137" />
+               </Metrics>
+               <Namespaces>
+                  <Namespace Name="Rate_my_area">
+                     <Metrics>
+                        <Metric Name="MaintainabilityIndex" Value="86" />
+                        <Metric Name="CyclomaticComplexity" Value="14" />
+                        <Metric Name="ClassCoupling" Value="12" />
+                        <Metric Name="DepthOfInheritance" Value="7" />
+                        <Metric Name="LinesOfCode" Value="28" />
+                     </Metrics>
+                     <Types>
+                        <Type Name="Form1">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="71" />
+                              <Metric Name="CyclomaticComplexity" Value="13" />
+                              <Metric Name="ClassCoupling" Value="12" />
+                              <Metric Name="DepthOfInheritance" Value="7" />
+                              <Metric Name="LinesOfCode" Value="27" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="Form1()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Form1()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="95" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="__ENCAddToList(object) : void">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="56" />
+                                    <Metric Name="CyclomaticComplexity" Value="6" />
+                                    <Metric Name="ClassCoupling" Value="5" />
+                                    <Metric Name="LinesOfCode" Value="17" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Dispose(bool) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Form1.Designer.vb" Line="7">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="75" />
+                                    <Metric Name="CyclomaticComplexity" Value="4" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="5" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="InitializeComponent() : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Form1.Designer.vb" Line="24">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="80" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="5" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="DT_Compression">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="100" />
+                              <Metric Name="CyclomaticComplexity" Value="1" />
+                              <Metric Name="ClassCoupling" Value="1" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="1" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="DT_Compression()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                     </Types>
+                  </Namespace>
+                  <Namespace Name="Rate_my_area.DelphTech">
+                     <Metrics>
+                        <Metric Name="MaintainabilityIndex" Value="81" />
+                        <Metric Name="CyclomaticComplexity" Value="28" />
+                        <Metric Name="ClassCoupling" Value="31" />
+                        <Metric Name="DepthOfInheritance" Value="1" />
+                        <Metric Name="LinesOfCode" Value="109" />
+                     </Metrics>
+                     <Types>
+                        <Type Name="DT_XML">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="100" />
+                              <Metric Name="CyclomaticComplexity" Value="1" />
+                              <Metric Name="ClassCoupling" Value="1" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="1" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="DT_XML()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="DT_IO">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="73" />
+                              <Metric Name="CyclomaticComplexity" Value="5" />
+                              <Metric Name="ClassCoupling" Value="7" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="16" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="DT_IO()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Write(string, string) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Files\DT_IO.vb" Line="5">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="69" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="6" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="ReadAll(string) : object" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Files\DT_IO.vb" Line="17">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="65" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="8" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CreateDir(string) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Files\DT_IO.vb" Line="29">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="95" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="DT_Form">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="70" />
+                              <Metric Name="CyclomaticComplexity" Value="1" />
+                              <Metric Name="ClassCoupling" Value="4" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="6" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="DT_Form(ref Form, string, bool, FormBorderStyle, int, int)" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Form Control\DT_Form.vb" Line="5">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="70" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="6" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="DT_Render">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="76" />
+                              <Metric Name="CyclomaticComplexity" Value="12" />
+                              <Metric Name="ClassCoupling" Value="18" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="39" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="DT_Render(ref Form, int, int, string, int, int, Point, DockStyle, Color)" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="10">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="53" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="9" />
+                                    <Metric Name="LinesOfCode" Value="20" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="~DT_Render()" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="39">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="81" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="5" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Update() : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="46">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="95" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Device.get() : Graphics" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="52">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="86" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="PrintText(string, PointF, Font, Brush) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="60">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="92" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="LoadBitMap(string) : object" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="67">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="67" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="7" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="DrawBitmapCustom(string, PointF, Rectangle) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="78">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="92" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="DrawBitmapFileExact(string, Point) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="82">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="92" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="RenderBaseLayer(string) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="92">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="92" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="RenderMidLayer(string, Rectangle) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="96">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="92" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="RenderTopLayer(string, Rectangle) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Graphics\DT_Render.vb" Line="100">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="92" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="DT_HTML">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="57" />
+                              <Metric Name="CyclomaticComplexity" Value="5" />
+                              <Metric Name="ClassCoupling" Value="9" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="43" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="DT_HTML()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CreateHTML(string, string, string) : object" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\HTML output\DT_HTML.vb" Line="10">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="52" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="8" />
+                                    <Metric Name="LinesOfCode" Value="21" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CreateHTMLWithCSS(string, string, string, string) : object" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\HTML output\DT_HTML.vb" Line="43">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="52" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="8" />
+                                    <Metric Name="LinesOfCode" Value="21" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="DT_HTML.Headers">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="100" />
+                              <Metric Name="CyclomaticComplexity" Value="0" />
+                              <Metric Name="ClassCoupling" Value="0" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="0" />
+                           </Metrics>
+                           <Members />
+                        </Type>
+                        <Type Name="DT_Sound">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="91" />
+                              <Metric Name="CyclomaticComplexity" Value="4" />
+                              <Metric Name="ClassCoupling" Value="5" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="4" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="DT_Sound()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="PlayFromFile(string, AudioPlayMode) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Sound\DT_Sound.vb" Line="4">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="91" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="SystemSound(SystemSound) : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Sound\DT_Sound.vb" Line="9">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="92" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="StopSound() : void" File="C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\Framework\Sound\DT_Sound.vb" Line="14">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="92" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                     </Types>
+                  </Namespace>
+               </Namespaces>
+            </Module>
+         </Modules>
+      </Target>
+   </Targets>
+</CodeMetricsReport>

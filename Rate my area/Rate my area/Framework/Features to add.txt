@@ -1,0 +1,43 @@
+﻿=======================================================================================================================
+	DELPH TECH V1
+=======================================================================================================================
+	
+	Framework functions to add:
+		()Solution explorer file system so exact file locations aren't needed, making it work correctly in VSA
+
+	Features to add to GDI:
+		()Vertex drawing
+			-Simplify the inbuilt vertex functions to allow for cubes to be rendered
+		(x)User controls
+		(x)Layering
+		(x)Exact image rendering using rectangles instead of points
+
+	Features to add to sound engine:
+		(x)Play sound
+		(x)Play music
+		(x)Stop music
+
+	Features to add to file framework:
+		(x)Write file
+		(x)Read File
+		()Append files
+		()Create driectories
+		()XML intergration
+		()Stuff for open data sets
+
+	Features to add to Form control:
+		(x)Set form name
+		(x)Set form size
+		(x)Allow maximisation
+		(x)Set border style
+
+	Features to add to the HTML output:
+		(.)Output basic html files
+		()Options to attach CSS doc links
+
+=======================================================================================================================
+	DELPH TECH V2
+=======================================================================================================================
+	Features to add to network framework:
+		()HTTP Get requests
+		()tcp 

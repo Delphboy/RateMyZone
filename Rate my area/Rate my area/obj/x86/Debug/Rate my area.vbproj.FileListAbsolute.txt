@@ -1,0 +1,25 @@
+C:\Users\Ray\AppData\Local\Temporary Projects\Rate my area\bin\Debug\Rate my area.exe
+C:\Users\Ray\AppData\Local\Temporary Projects\Rate my area\bin\Debug\Rate my area.pdb
+C:\Users\Ray\AppData\Local\Temporary Projects\Rate my area\bin\Debug\Rate my area.xml
+C:\Users\Ray\AppData\Local\Temporary Projects\Rate my area\obj\x86\Debug\Rate_my_area.Resources.resources
+C:\Users\Ray\AppData\Local\Temporary Projects\Rate my area\obj\x86\Debug\Rate my area.vbproj.GenerateResource.Cache
+C:\Users\Ray\AppData\Local\Temporary Projects\Rate my area\obj\x86\Debug\Rate my area.exe
+C:\Users\Ray\AppData\Local\Temporary Projects\Rate my area\obj\x86\Debug\Rate my area.xml
+C:\Users\Ray\AppData\Local\Temporary Projects\Rate my area\obj\x86\Debug\Rate my area.pdb
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate my area.exe
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate my area.xml
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate my area.pdb
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\bin\Debug\Rate my area.exe
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\bin\Debug\Rate my area.pdb
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\bin\Debug\Rate my area.xml
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Resources.resources
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate my area.vbproj.GenerateResource.Cache
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Form1.resources
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Test_form.resources
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Output.resources
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Test_UI.resources
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Crime.resources
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Education.resources
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Health.resources
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Pollution.resources
+C:\Users\Ray\documents\visual studio 2010\Projects\Rate my area\Rate my area\obj\x86\Debug\Rate_my_area.Traffic.resources

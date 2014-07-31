@@ -1,0 +1,133 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ratemyarea
+</name>
+</assembly>
+<members>
+<member name="P:Rate_my_area.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources._Next">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Crime">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Education">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Environment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Health">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.More_Details">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.New_Rating">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Share">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Traffic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rate_my_area.My.Resources.Resources.Traffic_major_roads_miles">
+	<summary>
+  Looks up a localized string similar to Newport,560
+Monmouthshire,563
+Blaenau Gwent,564
+Torfaen,569
+"Rhondda, Cynon, Taff",571
+Ceredigion,574
+Carmarthenshire,575
+Pembrokeshire,576
+Powys,584
+Gwynedd,586
+Denbighshire,594
+Wrexham,599
+Flintshire,600
+Conwy,607
+Isles of Scilly,51
+Nottinghamshire,60
+Glasgow City,61
+North Lanarkshire,62
+South Lanarkshire,63
+Somerset,64
+Bridgend,502
+Swansea,503
+Neath Port Talbot,520
+The Vale of Glamorgan,521
+Cardiff,522
+Merthyr Tydfil,530
+Isle of Anglesey,629
+West Lothian,700
+Renfrewshire,701
+ [rest of string was truncated]";.
+</summary>
+</member><member name="T:Rate_my_area.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
